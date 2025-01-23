@@ -101,9 +101,9 @@ This project focuses on analyzing employee performance and working hours within 
 ## 📝 Conclusion
 This analysis reveals actionable insights into employee performance and engagement. By addressing outliers and leveraging strengths, the organization can foster a more productive and satisfied workforce. Further exploration of department-specific trends and predictive modeling could deepen these insights.
 
-**Author**: [Your Name]  
-**Date**: [Project Completion Date]  
-**Contact**: [Your Email/LinkedIn]  
+**Author**: Anguilet Joan-Yves Darys  
+**Date**: 23/01/2025
+**Contact**: yvesanguilet6@gmail.com/https://www.linkedin.com/in/joan-yves-darys-anguilet-8143bb217/
 
 --- 
 
